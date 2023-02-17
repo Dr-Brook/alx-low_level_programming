@@ -2,7 +2,7 @@
 
 /**
  * main - Print a string
- * Description: use printf to print "with proper grammar, but..."
+ * Description: use printf to print "with proper grammar, but...."
  * Return: 0
  */
 int main(void)
