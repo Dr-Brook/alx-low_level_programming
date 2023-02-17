@@ -3,8 +3,8 @@
 /**
  * main - Entry point
  * Description: prints alphabet in lowercase then uppercase
- * Return: Always 0 (success)
- */ 
+ * Return: Always 0
+ */
 int main(void)
 {
 	int ch;

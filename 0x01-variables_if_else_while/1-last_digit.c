@@ -4,7 +4,7 @@
 /**
  * main - Entry point
  * Description: checks on the last digit of the assigned variable
- * Return: Always 0 
+ * Return: 0
  */
 int main(void)
 {
