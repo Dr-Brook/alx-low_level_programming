@@ -2,7 +2,7 @@
 
 /*
  *main - Print a string
- *Description: use printf
+ *Description: use printf and print C program that prints exactly "with proper grammar, but the outcome is a piece of art,"
  *Return: 0
  */
 
