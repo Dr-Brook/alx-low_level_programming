@@ -5,10 +5,7 @@
  * 
  * Return: 0
  **/
-int main()
+void reset_to_98(int *n)
 {
-	int x = 42;
-	reset_to_98(&x);
-	printf("x is now %d\n", x);
-	return 0;
+	n = 98;
 }
