@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * swaps the values of two integers.
+ * swap_int - swaps the values of two integers.
  * a: first input
  * b: second input
  *
