@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code for Holberton School students.
- * @_puts - Prints a string
+ * _puts - Prints a string
  * @str: The string to print
- * Return: Always 0.
+ * Return: void
  */
 
 void _puts(char *str)
