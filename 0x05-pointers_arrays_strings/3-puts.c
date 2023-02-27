@@ -6,11 +6,12 @@
  *
  * Return: 0
  */
-int main(void)
-{
-	char *str;
+void _puts(char *str)
 
-	str= "I do not fear computers. I fear the lack of them - Isaac Asimov";
-	_put(str);
-	return (0);
+{
+	for (; *str != '\0'; str++)
+	{
+	_putchar(*str);
+	}
+	_putchar('\n');
 }
